@@ -1,2 +1,4 @@
-Objective: Develop a Genetic Algorithm to seat an x number of people from an n number of groups (political parties, religion, etc) so that they are spread as evenly as possible, with the ideal fitness being no two people of the same party, religion, etc are seated next to each other unless there are no other options (uneven number of people to each party).
+Objective: Develop a Genetic Algorithm to seat an x number of people from an n number of groups (political parties, religion, etc) so that they are spread as evenly as possible,
+with the ideal fitness being no two people of the same party, religion, etc are seated next to each other unless there are no other options
+(uneven number of people to each party).
 
