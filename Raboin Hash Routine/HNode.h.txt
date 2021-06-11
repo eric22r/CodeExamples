@@ -1,0 +1,15 @@
+#pragma once
+
+#include "Player.h"
+#include <vector>
+
+class HNode
+{
+public:
+	HNode(int key, Player *value);
+	HNode();
+	~HNode();
+	int key;
+	Player *value;
+	std::vector<HNode*> bucket;
+};
