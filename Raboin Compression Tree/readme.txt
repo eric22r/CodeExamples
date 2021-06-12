@@ -1,0 +1,1 @@
+In this program, you can run it with a file in the directory the code is located in. The program will take and compress that indicated file, creating a .SABAN file that saves appoximately 40% file size. The program can also be run to extract and decrypt the file, restoring it to its original information.
